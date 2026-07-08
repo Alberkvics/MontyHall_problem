@@ -1,4 +1,4 @@
-# MontyHall_problem
+# MontyHall_Problem
 
 This is a simple Python program, written with no external dependencies, to help you learn and understand Bayesian inference through the famous Monty Hall problem.
 
